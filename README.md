@@ -1,6 +1,6 @@
 # STIAM-HR Portal
 
-A comprehensive, browser-based **Human Resources Information System (HRIS)** for STI Asset Management Ltd and group companies (DEVTAGE, Cedar London, Cedar Asset).
+A comprehensive, browser-based **Human Resources Information System (HRIS)** for STI Asset Management Ltd and group companies (DEVTAGE, Cedar of Lebanon Securities, Cedar Asset).
 
 ---
 
