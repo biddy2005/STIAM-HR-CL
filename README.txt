@@ -31,11 +31,12 @@ COMPANIES
 STIAM   = STI Asset Management Limited
 Devtage = Devtage Financial Services
 Cedar-L = Cedar of Lebanon Securities Limited
-Cedar-A = Cedar Asset Plus
-
+Cedar-A = Cedar Asset Plus 
+ 
 LEAVE ENTITLEMENT
 -----------------
-HOD / MD / Vice Chairman / Director : 20 days/year
+MD / Vice Chairman / Director       : 30 days/year
+Fincon/Investment HOD               : 20 days/year
 All other staff                     : 15 days/year
 
 SUPER ADMIN EXCLUSIVE
